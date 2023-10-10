@@ -25,6 +25,4 @@
         "wizards/account_invoice_send_views.xml",
         "wizards/mail_compose_message_view.xml",
     ],
-    "demo": [],
-    "qweb": [],
 }

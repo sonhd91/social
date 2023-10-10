@@ -1,3 +1,6 @@
+# Copyright 2023 Camptocamp SA
+# License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+
 import ast
 import base64
 import logging
